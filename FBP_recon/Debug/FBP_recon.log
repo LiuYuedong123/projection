@@ -1,0 +1,25 @@
+﻿  Line.cpp
+D:\CPP\FBP_recon\FBP_recon\Point.h(20,14): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\CPP\FBP_recon\FBP_recon\Line.cpp(15,34): warning C4305: “=”: 从“double”到“float”截断
+D:\CPP\FBP_recon\FBP_recon\Line.cpp(19,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Point.cpp
+D:\CPP\FBP_recon\FBP_recon\Point.h(20,14): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\CPP\FBP_recon\FBP_recon\Point.cpp(43,39): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\CPP\FBP_recon\FBP_recon\Point.cpp(43,21): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  projectForward_LineDriven.cpp
+D:\CPP\FBP_recon\FBP_recon\projectForward_LineDriven.cpp(38,12): warning C4244: “初始化”: 从“const size_t”转换到“float”，可能丢失数据
+D:\CPP\FBP_recon\FBP_recon\projectForward_LineDriven.cpp(39,12): warning C4244: “初始化”: 从“const size_t”转换到“float”，可能丢失数据
+D:\CPP\FBP_recon\FBP_recon\projectForward_LineDriven.cpp(44,16): warning C4244: “初始化”: 从“const size_t”转换到“float”，可能丢失数据
+D:\CPP\FBP_recon\FBP_recon\projectForward_LineDriven.cpp(57,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\CPP\FBP_recon\FBP_recon\projectForward_LineDriven.cpp(59,56): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\CPP\FBP_recon\FBP_recon\projectForward_LineDriven.cpp(59,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\CPP\FBP_recon\FBP_recon\projectForward_LineDriven.cpp(67,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\CPP\FBP_recon\FBP_recon\projectForward_LineDriven.cpp(82,49): warning C4244: “参数”: 从“size_t”转换到“float”，可能丢失数据
+D:\CPP\FBP_recon\FBP_recon\projectForward_LineDriven.cpp(83,49): warning C4244: “参数”: 从“size_t”转换到“float”，可能丢失数据
+D:\CPP\FBP_recon\FBP_recon\projectForward_LineDriven.cpp(84,32): warning C4244: “参数”: 从“float”转换到“const unsigned int”，可能丢失数据
+D:\CPP\FBP_recon\FBP_recon\projectForward_LineDriven.cpp(124,25): warning C4305: “=”: 从“double”到“float”截断
+D:\CPP\FBP_recon\FBP_recon\projectForward_LineDriven.cpp(125,25): warning C4305: “=”: 从“double”到“float”截断
+D:\CPP\FBP_recon\FBP_recon\projectForward_LineDriven.cpp(132,67): warning C4244: “参数”: 从“size_t”转换到“float”，可能丢失数据
+D:\CPP\FBP_recon\FBP_recon\projectForward_LineDriven.cpp(134,17): warning C4305: “初始化”: 从“double”到“float”截断
+  正在生成代码...
+  FBP_recon.vcxproj -> D:\CPP\FBP_recon\Debug\FBP_recon.exe
