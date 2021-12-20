@@ -224,7 +224,7 @@ void ProjBackward(vector<float>& image, const vector<float>& proj, const ImgPara
 	float unitSize = detPar.detColSize;
 	size_t detNum = detPar.detCol;
 	float detLen = detNum * unitSize;
-	float projNum = detPar.projNum;
+	size_t projNum = detPar.projNum;
 	size_t imgNumX = imgPar.sizeX;
 	size_t imgNumY = imgPar.sizeY;
 	float pixelSizeX = imgPar.pixelSizeX;
